@@ -39,7 +39,7 @@ def token(text):
     padded_seq=pad_sequences(sequence, maxlen=max_seq_len, padding='post') # Pad the sequences to the maximum length
     return padded_seq, max_seq_len, word_index, vocab_size
 
-bilstm_model = load_model("C:\\Users\\rothi\Downloads\\bilstm_model.h5")
+bilstm_model = load_model("C:\\Users\\rothi\\NewBegining\\Sentiment_analysis\\bilstm_model.h5")
 
 st.set_page_config(
     page_title="🎭 Digital Arena Sentiment Analyzer",
