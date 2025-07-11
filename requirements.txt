@@ -1,15 +1,14 @@
 # Core
-python==3.11.*
-bs4==0.0.2
-contractions==0.1.73
-emoji==2.14.1
-numpy==1.26.4
-pandas==2.2.3
-scikit-learn==1.2.2
-spacy==3.8.7
+bs4
+contractions
+emoji
+numpy
+pandas
+scikit-learn
+spacy
 en_core_web_lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl#sha256=293e9547a655b25499198ab15a525b05b9407a75f10255e405e8c3854329ab63
-tensorflow==2.18.0
-keras==3.8.0
+tensorflow
+keras
 
 # Deployment
 streamlit
