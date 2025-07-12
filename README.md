@@ -1,5 +1,5 @@
-# Predictive Modeling of Customer Churn for ADFC Bank Using Machine Learning.
-[Kaggle Notebook]() | [Web App]()
+# Uncovering Player Sentiment Through Gaming Community Conversations on Twitter
+[Kaggle Notebook](https://www.kaggle.com/code/rothindrohait/sentiment-analysis-bilstm) | [Web App](https://da-sentiment-analysis.streamlit.app/)
 ---
 ## 📌Overview:
 
