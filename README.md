@@ -30,7 +30,7 @@ In this project, we have utilized the above-mentioned dataset, which contains **
 
 
 ## ⚙️Methods
-The project employs time series analysis techniques, including:
+The project employs some important text processing techniques, including:
 
 - __Data Preprocessing__
 - __Lemmitization__
@@ -40,7 +40,7 @@ The project employs time series analysis techniques, including:
 - __Final Model Selection & Evaluation__
 - __Pipeline__
 
-Click here to access the Kaggle Notebook
+Click [here](https://www.kaggle.com/code/rothindrohait/sentiment-analysis-bilstm) to access the Kaggle Notebook
 
 ## 🛠️ Tools & Technologies
 - __Programming Language:__ Python
