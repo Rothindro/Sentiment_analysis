@@ -1,2 +1,4 @@
 [theme]
 backgroundColor = "#FFFFFF"
+[layout]
+wideMode = true
