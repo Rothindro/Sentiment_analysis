@@ -83,7 +83,8 @@ with st.container():
 
     with colu2:
 
-        st.title("🎭 Digital Arena Sentiment Analyzer")
+        st.title("🎭Digital Arena Sentiment Analyzer")
+        st.write('---')
         st.write("######")
 
         with (st.container(border=True)):
