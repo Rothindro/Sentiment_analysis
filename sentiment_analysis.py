@@ -105,3 +105,4 @@ with st.container():
                 st.write("######")
         st.caption("*This app predicts sentiment of statements related to video games using a BiLSTM model")
         st.write('---')
+        st.image("bilstm_model.h5.png")
