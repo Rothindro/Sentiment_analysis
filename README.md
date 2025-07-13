@@ -42,6 +42,10 @@ The project employs some important text processing techniques, including:
 
 Click [here](https://www.kaggle.com/code/rothindrohait/sentiment-analysis-bilstm) to access the Kaggle Notebook
 
+
+![Model Architecture](bilstm_model.h5.png)
+
+
 ## 🛠️ Tools & Technologies
 - __Programming Language:__ Python
 - __Libraries:__ NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, Spacy, Tensorflow/Keras (BiLSTM)
