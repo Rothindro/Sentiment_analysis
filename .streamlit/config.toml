@@ -4,6 +4,4 @@ layout = "wide"
 [theme]
 base="light"
 primaryColor="mediumslateBlue"
-#backgroundColor="mintCream"
-secondaryBackgroundColor="mintCream"
 borderColor = "mediumslateBlue"
