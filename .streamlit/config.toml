@@ -1,7 +1,9 @@
 [theme]
 base="light"
 primaryColor="slateBlue"
-backgroundColor="mintCream"
-secondaryBackgroundColor="darkSeaGreen"
+#backgroundColor="mintCream"
+#secondaryBackgroundColor="darkSeaGreen"
+borderColor = "slateBlue"
+
 [ui]
 layout = "wide"
