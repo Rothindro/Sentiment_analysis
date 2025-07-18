@@ -10,7 +10,6 @@ from tensorflow.keras.preprocessing.text import Tokenizer # type: ignore
 from tensorflow.keras.preprocessing.sequence import pad_sequences # type: ignore
 from tensorflow.keras.models import load_model # type: ignore
 
-st.set_page_config(layout="wide")
 nlp=spacy.load('en_core_web_lg', disable=['parser', 'ner', 'tagger'])
 
 def basic_cleaning(text):
