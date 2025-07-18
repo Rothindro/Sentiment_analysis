@@ -1,4 +1,7 @@
 [theme]
-backgroundColor = "#FFFFFF"
+base="light"
+primaryColor="slateBlue"
+backgroundColor="mintCream"
+secondaryBackgroundColor="darkSeaGreen"
 [ui]
 layout = "wide"
